@@ -1,0 +1,46 @@
+{
+  "careers": [
+    {
+      "id": "Senior-React-Developer",
+      "title": "Senior React Developer",
+      "salary": 50000,
+      "location": "London, UK"
+    },
+    {
+      "id": "Plumber",
+      "title": "Plumber",
+      "salary": 40000,
+      "location": "Bowser's Castle"
+    },
+    {
+      "id": "Gym-Leader",
+      "title": "Gym Leader",
+      "salary": 75000,
+      "location": "Kanto Region"
+    },
+    {
+      "id": "Vue-Developer",
+      "title": "Vue Developer",
+      "salary": 40000,
+      "location": "Liverpool, UK"
+    },
+    {
+      "id": "Tutorial-Maker",
+      "title": "Tutorial Maker",
+      "salary": 35000,
+      "location": "Manchester, UK"
+    },
+    {
+      "id": "Website-Manager",
+      "title": "Website Manager",
+      "salary": 50000,
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": "Food-Tester",
+      "title": "Food Tester",
+      "salary": 30000,
+      "location": "London, UK"
+    }
+  ]
+}
